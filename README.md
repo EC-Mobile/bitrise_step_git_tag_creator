@@ -6,6 +6,7 @@ Git Tag Creator
 ## Sample Tag Formats
 
 release-MARKETING_VERSION-BUILD_NUMBER => release-1.0.0-99
+
 MARKETING_VERSION.BUILD_NUMBER => 1.0.0.99
 
 
