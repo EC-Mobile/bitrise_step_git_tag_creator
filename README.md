@@ -2,6 +2,9 @@
 
 Git Tag Creator
 
+# Prerequisites
+1) Ensure that git account has write permission to target repository
+2) Git credentials are already set on environment
 
 ## Sample Tag Formats
 
