@@ -13,9 +13,9 @@ summary: |
   Creates a git tag from preferred format
 description: |
   Creates a git tag from preferred format.
-website: https://github.com/EC-Mobile/bitrise_step_git_tag_creator
-source_code_url: https://github.com/EC-Mobile/bitrise_step_git_tag_creator
-support_url: https://github.com/EC-Mobile/bitrise_step_git_tag_creator
+website: https://github.com/joshuafrancisrak/bitrise_step_git_tag_creator
+source_code_url: https://github.com/joshuafrancisrak/bitrise_step_git_tag_creator
+support_url: https://github.com/joshuafrancisrak/bitrise_step_git_tag_creator
 host_os_tags:
   - osx-10.10
   - ubuntu-16.04
