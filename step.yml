@@ -13,9 +13,9 @@ summary: |
   Creates a git tag from preferred format
 description: |
   Creates a git tag from preferred format.
-website: https://github.com/joshuafrancisrak/bitrise_step_git_tag_creator
-source_code_url: https://github.com/joshuafrancisrak/bitrise_step_git_tag_creator
-support_url: https://github.com/joshuafrancisrak/bitrise_step_git_tag_creator
+website: https://github.com/EC-Mobile/bitrise_step_git_tag_creator
+source_code_url: https://github.com/EC-Mobile/bitrise_step_git_tag_creator
+support_url: https://github.com/EC-Mobile/bitrise_step_git_tag_creator
 host_os_tags:
   - osx-10.10
   - ubuntu-16.04
@@ -77,9 +77,7 @@ inputs:
     opts:
       title: "Marketing version script"
       summary: Shell script that is used for determining the value of MARKETING_VERSION
-      is_required: false
   - build_number_script: Creates $buildNumber
     opts:
       title: "Build Number script"
       summary: Shell script that is used for determining the value of BUILD_NUMBER
-      is_required: false
